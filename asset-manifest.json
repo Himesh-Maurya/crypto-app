@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/crypto-app/static/js/main.205ea816.js",
+    "static/media/btc.png": "/crypto-app/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/avatar.jpg": "/crypto-app/static/media/avatar.5d9ea6317191df85e1b9.jpg",
+    "index.html": "/crypto-app/index.html",
+    "main.205ea816.js.map": "/crypto-app/static/js/main.205ea816.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.205ea816.js"
+  ]
+}
